@@ -28,7 +28,7 @@ git clone https://github.com/LeJammes454/ProyectoFirebaseCloudMessenging.git
 
 1.  Al abrir la aplicación, se mostrará el token FCM del dispositivo en un Toast y en el Logcat.
     
-2.  Utiliza un servidor o una herramienta para enviar notificaciones push a este dispositivo utilizando el token FCM. Puedes probar el servidor Node.js creado en el repositorio relacionado: [Push Notification Sender](https://github.com/LeJammes454/ProyectoFCMServidor.git%3E).
+2.  Utiliza un servidor o una herramienta para enviar notificaciones push a este dispositivo utilizando el token FCM. Puedes probar el servidor Node.js creado en el repositorio relacionado: [Push Notification Sender](https://github.com/LeJammes454/ProyectoFCMServidor.git).
     
 3.  Cuando la aplicación recibe una notificación push, se mostrará en la barra de estado del dispositivo.
     
